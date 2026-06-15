@@ -248,7 +248,7 @@ const ICONS = {
 
 const INSTRUMENTS = [
   {
-    id: 'tabla', name: 'Tabla', roman: 'तबला', tag: 'The heartbeat of North Indian rhythm',
+    id: 'tabla', name: 'Tabla', roman: 'ਤਬਲਾ', tag: 'The heartbeat of North Indian rhythm',
     blurb: 'A pair of hand drums. Strike the zones to sound different bols.',
     info: {
       region: 'North India (Hindustani)', family: 'Membranophone (drum pair)',
@@ -260,7 +260,7 @@ const INSTRUMENTS = [
     },
   },
   {
-    id: 'sitar', name: 'Sitar', roman: 'सितार', tag: 'The shimmering voice of the raga',
+    id: 'sitar', name: 'Sitar', roman: 'ਸਿਤਾਰ', tag: 'The shimmering voice of the raga',
     blurb: 'Tap frets to play the scale of Raga Yaman; strum the chikari drone.',
     info: {
       region: 'North India (Hindustani)', family: 'Plucked chordophone',
@@ -272,7 +272,7 @@ const INSTRUMENTS = [
     },
   },
   {
-    id: 'bansuri', name: 'Bansuri', roman: 'बांसुरी', tag: 'A single bamboo, the breath of Krishna',
+    id: 'bansuri', name: 'Bansuri', roman: 'ਬੰਸਰੀ', tag: 'A single bamboo, the breath of Krishna',
     blurb: 'Hold a hole to sound a note; slide your finger for smooth glides.',
     info: {
       region: 'All India', family: 'Side-blown bamboo flute (aerophone)',
@@ -284,7 +284,7 @@ const INSTRUMENTS = [
     },
   },
   {
-    id: 'harmonium', name: 'Harmonium', roman: 'हारमोनियम', tag: 'The reed organ that learned to sing Indian',
+    id: 'harmonium', name: 'Harmonium', roman: 'ਹਾਰਮੋਨੀਅਮ', tag: 'The reed organ that learned to sing Indian',
     blurb: 'A hand-pumped keyboard. Play the sargam — hold keys for sustained reeds.',
     info: {
       region: 'All India (esp. vocal & devotional music)', family: 'Free-reed keyboard (aerophone)',
@@ -296,7 +296,7 @@ const INSTRUMENTS = [
     },
   },
   {
-    id: 'tanpura', name: 'Tanpura', roman: 'तानपुरा', tag: 'The endless drone that holds everything together',
+    id: 'tanpura', name: 'Tanpura', roman: 'ਤਾਨਪੁਰਾ', tag: 'The endless drone that holds everything together',
     blurb: 'Pluck the four strings — or let it cycle on its own as a backing drone.',
     info: {
       region: 'All India', family: 'Plucked drone chordophone',
@@ -308,7 +308,7 @@ const INSTRUMENTS = [
     },
   },
   {
-    id: 'santoor', name: 'Santoor', roman: 'संतूर', tag: 'A hundred strings struck like rain',
+    id: 'santoor', name: 'Santoor', roman: 'ਸੰਤੂਰ', tag: 'A hundred strings struck like rain',
     blurb: 'Strike the string courses with light mallets — bright and shimmering.',
     info: {
       region: 'Kashmir / North India', family: 'Hammered dulcimer (struck zither)',
@@ -320,7 +320,7 @@ const INSTRUMENTS = [
     },
   },
   {
-    id: 'sarangi', name: 'Sarangi', roman: 'सारंगी', tag: 'The instrument closest to the human voice',
+    id: 'sarangi', name: 'Sarangi', roman: 'ਸਾਰੰਗੀ', tag: 'The instrument closest to the human voice',
     blurb: 'Press &amp; hold to bow; drag to glide between notes like a singer.',
     info: {
       region: 'North India (Hindustani)', family: 'Bowed short-necked fiddle',
@@ -332,7 +332,7 @@ const INSTRUMENTS = [
     },
   },
   {
-    id: 'dholak', name: 'Dholak', roman: 'ढोलक', tag: 'The folk drum of weddings and celebration',
+    id: 'dholak', name: 'Dholak', roman: 'ਢੋਲਕ', tag: 'The folk drum of weddings and celebration',
     blurb: 'Tap the two heads — bright treble and booming bass.',
     info: {
       region: 'North India / South Asia (folk)', family: 'Two-headed barrel hand drum',

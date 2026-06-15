@@ -11,14 +11,14 @@ An interactive, mobile-first web app for **playing and learning the instruments 
 ### Eight playable instruments
 | | Instrument | How you play it |
 |---|---|---|
-| तबला | **Tabla** | Tap the drum zones for different *bols* (Na, Tin, Ge, Ka…) + a built-in **Teental** trainer |
-| सितार | **Sitar** | Tap the frets up the scale of **Raga Yaman**, with sympathetic-string shimmer + chikari strum |
-| बांसुरी | **Bansuri** | Press & hold the holes — **drag to glide** between notes like a real flute |
-| हारमोनियम | **Harmonium** | A sargam keyboard with sustained reeds; white = natural notes, dark = komal/teevra |
-| तानपुरा | **Tanpura** | Pluck the four drone strings, or let it auto-cycle |
-| संतूर | **Santoor** | Strike the string courses for that bright, shimmering cascade |
-| सारंगी | **Sarangi** | Press & hold to bow, **drag to glide** — the most vocal of instruments |
-| ढोलक | **Dholak** | Tap the two heads for crisp treble and booming folk bass |
+| ਤਬਲਾ | **Tabla** | Tap the drum zones for different *bols* (Na, Tin, Ge, Ka…) + a built-in **Teental** trainer |
+| ਸਿਤਾਰ | **Sitar** | Tap the frets up the scale of **Raga Yaman**, with sympathetic-string shimmer + chikari strum |
+| ਬੰਸਰੀ | **Bansuri** | Press & hold the holes — **drag to glide** between notes like a real flute |
+| ਹਾਰਮੋਨੀਅਮ | **Harmonium** | A sargam keyboard with sustained reeds; white = natural notes, dark = komal/teevra |
+| ਤਾਨਪੁਰਾ | **Tanpura** | Pluck the four drone strings, or let it auto-cycle |
+| ਸੰਤੂਰ | **Santoor** | Strike the string courses for that bright, shimmering cascade |
+| ਸਾਰੰਗੀ | **Sarangi** | Press & hold to bow, **drag to glide** — the most vocal of instruments |
+| ਢੋਲਕ | **Dholak** | Tap the two heads for crisp treble and booming folk bass |
 
 ### Play-along lessons 🎓
 Seven guided lessons (Sa Re Ga Ma, Twinkle Twinkle in sargam, Raga Yaman, Bhairavi, a Santoor cascade, Teental and the Kaherva folk groove). **Listen** to a phrase, then **Practice** it — the app lights up the next note/stroke and only advances when you play it correctly.
